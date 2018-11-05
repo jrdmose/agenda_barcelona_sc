@@ -1,4 +1,4 @@
-# agenda_barcelona_sc
+# Barcelona cultural agenda
 
 Educational scraping project consisting in scraping Barcelona events from Barcelona administration website.
 
